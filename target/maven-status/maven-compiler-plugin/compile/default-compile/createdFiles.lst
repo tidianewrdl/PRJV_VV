@@ -1,0 +1,7 @@
+com\example\usermanagement\model\User.class
+com\example\usermanagement\app\Main.class
+com\example\usermanagement\service\UserService.class
+com\example\usermanagement\service\UserServiceImpl.class
+com\example\usermanagement\dao\UserDaoImpl.class
+com\example\usermanagement\dao\UserDao.class
+com\example\usermanagement\dao\DatabaseConnection.class
