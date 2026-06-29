@@ -14,7 +14,7 @@ Le fichier `DatabaseConnection.java` utilise les paramètres suivants :
 
 - URL : `jdbc:mysql://localhost:3306/userdb?useSSL=false&serverTimezone=UTC`
 - Utilisateur : `root`
-- Mot de passe : `` (vide)
+- Mot de passe : `` (vide).
 
 > Si votre installation XAMPP utilise un autre mot de passe MySQL, adaptez ces valeurs.
 

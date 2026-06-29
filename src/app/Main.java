@@ -117,7 +117,7 @@ public class Main {
         if (userService.deleteUser(id)) {
             System.out.println("Utilisateur supprimé.");
         } else {
-            System.out.println("Échec de la suppression ou utilisateur introuvable.");
+            System.out.println("Échec de la suppression ou utilisateur introuvable..");
         }
     }
 
